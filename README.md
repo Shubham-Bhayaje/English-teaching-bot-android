@@ -1,8 +1,8 @@
 # English Practice Assistant
 
 <div align="center">
-  <img src="https://github.com/Shubham-Bhayaje/English-teaching-bot-android/blob/master/app/sampledata/WhatsApp%20Image%202025-04-12%20at%2023.22.25_852c7ca4.jpg" alt="Main Conversation Screen" width="300"/>
-  <img src="https://github.com/Shubham-Bhayaje/English-teaching-bot-android/blob/master/app/sampledata/WhatsApp%20Image%202025-04-12%20at%2023.22.25_9e561445.jpg" alt="Settings Screen" width="300"/>
+  <img src="https://github.com/Shubham-Bhayaje/English-teaching-bot-android/blob/master/app/sampledata/WhatsApp%20Image%202025-04-12%20at%2023.22.25_9e561445.jpg" alt="Main Conversation Screen" width="300"/>
+  <img src="https://github.com/Shubham-Bhayaje/English-teaching-bot-android/blob/master/app/sampledata/WhatsApp%20Image%202025-04-12%20at%2023.22.25_852c7ca4.jpg" alt="Settings Screen" width="300"/>
 </div>
 
 An Android application that helps users practice English conversation using AI-powered responses. The app provides a chat-like interface where users can practice their English skills with an AI assistant.
@@ -121,4 +121,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Support
 
-For support, email support@example.com or open an issue in the repository.
+For support, email shubhambhayaje915@gmail.com or open an issue in the repository.
