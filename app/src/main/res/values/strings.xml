@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ETB</string>
+    <string name="difficulty_levels">Beginner,Intermediate,Advanced</string>
+    <string name="difficulty_beginner">Beginner</string>
+    <string name="difficulty_intermediate">Intermediate</string>
+    <string name="difficulty_advanced">Advanced</string>
+</resources>
